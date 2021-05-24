@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/a_z_handwritten_data.csv
+*a_z_handwritten_data.csv
